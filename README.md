@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Nur Srijan!
 
-🚀 Future Engineer | 🧠 AI + Systems Thinker | 💻 VS Code Extension Dev | ⚔️ Logic Over Luck
+🚀 Future Engineer | 🧠 AI + Systems Thinker | 💻 Dev Tools Builder
 
 ---
 
