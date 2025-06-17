@@ -9,14 +9,14 @@
 Craft tools and systems that think — not just compute.  
 Because why stop at “smart” when we can aim for *strategic*?
 
-Imagine agentic AIs making real-world decisions with the cold precision of a chess engine.  
+Imagine agentic **AIs** making real-world decisions with the **cold precision** of a chess engine.  
 I’m not here to build Jarvis. I’m here to build *Kasparov-level reasoning for real life.*
 
 ---
 
 ## 💡 Things I’ve Brought Into the World
 
-### 🧩 [Markdown Rich Preview & Export](https://github.com/yourusername/markdown-rich-preview-export)  
+### 🧩 [Markdown Rich Preview & Export](https://marketplace.visualstudio.com/items?itemName=nur-srijan.markdown-rich-preview)  
  Turn Markdown into GitHub-style elegance and export clean PDFs/HTMLs — no Pandoc hacks, just vibes.  
  > **Coming Soon:** Multi-editor support (JetBrains, Vim, Sublime?) and maybe AI-generated READMEs too!
 
@@ -52,10 +52,7 @@ Specialties: Full-Stack | AI Workflows | VS Code Extensions | GitHub Automation
 
 ---
 
-
 > 💭 “I’m not teaching AIs to *guess* better — I’m teaching them to *reason* sharper.”  
-> — Nur, when nobody asked, but they needed to hear it
-
-
+> — Nur, probably with AI enhancements.
 
 🧠 *Engineering intelligence, not just interfaces.*
